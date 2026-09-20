@@ -102,7 +102,7 @@
                 <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-zinc-500 text-sm">
                     <p>ned - The Never-Ending Daemon. Milton's brother who actually monitors things.</p>
                     <p class="mt-2">
-                        <a href="https://github.com/paul-tastic/ned" class="hover:text-emerald-500 transition">GitHub</a>
+                        <a href="https://github.com/paul-tastic-2/ned" class="hover:text-emerald-500 transition">GitHub</a>
                         <span class="mx-2">|</span>
                         <a href="https://getneddy.com" class="hover:text-emerald-500 transition">Documentation</a>
                     </p>

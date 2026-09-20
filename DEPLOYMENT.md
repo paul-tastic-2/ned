@@ -23,7 +23,7 @@ This guide covers how to self-host Ned on your own infrastructure.
 
 ```bash
 # Clone the repository
-git clone https://github.com/paul-tastic/ned.git
+git clone https://github.com/paul-tastic-2/ned.git
 cd ned/server
 
 # Install dependencies
@@ -248,14 +248,14 @@ WantedBy=multi-user.target
 On each server you want to monitor:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/paul-tastic/ned/master/agent/install.sh | \
+curl -fsSL https://raw.githubusercontent.com/paul-tastic-2/ned/master/agent/install.sh | \
   bash -s -- --token YOUR_SERVER_TOKEN --api http://your-ned-server:8080
 ```
 
 Or manually:
 ```bash
 # Download
-curl -o /usr/local/bin/ned-agent https://raw.githubusercontent.com/paul-tastic/ned/master/agent/ned-agent.sh
+curl -o /usr/local/bin/ned-agent https://raw.githubusercontent.com/paul-tastic-2/ned/master/agent/ned-agent.sh
 chmod +x /usr/local/bin/ned-agent
 
 # Configure

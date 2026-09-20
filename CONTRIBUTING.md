@@ -6,7 +6,7 @@ Thanks for your interest in contributing to Ned! This document outlines the proc
 
 ### Reporting Bugs
 
-1. **Check existing issues** - Search [GitHub Issues](https://github.com/paul-tastic/ned/issues) to avoid duplicates
+1. **Check existing issues** - Search [GitHub Issues](https://github.com/paul-tastic-2/ned/issues) to avoid duplicates
 2. **Create a new issue** with:
    - Clear, descriptive title
    - Steps to reproduce
@@ -153,7 +153,7 @@ ned/
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/paul-tastic/ned/discussions) for general questions
+- Open a [Discussion](https://github.com/paul-tastic-2/ned/discussions) for general questions
 - Check [SECURITY.md](SECURITY.md) for security-related concerns
 
 ## Code of Conduct

@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Ned Agent - Server monitoring agent
-# https://github.com/paul-tastic/ned
+# https://github.com/paul-tastic-2/ned
 #
 # Collects system metrics and POSTs them to your Ned dashboard.
 # "Excuse me, I believe you have my... server metrics."

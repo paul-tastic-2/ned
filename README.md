@@ -87,7 +87,7 @@ Meet ned - the basement-dwelling, bespectacled server watcher who keeps an eye o
 
 ### Coming Soon
 
-See the [Issues tab](https://github.com/paul-tastic/ned/issues) for the full roadmap and feature requests.
+See the [Issues tab](https://github.com/paul-tastic-2/ned/issues) for the full roadmap and feature requests.
 
 ## Tech Stack
 
@@ -118,7 +118,7 @@ You can also install ned on the same server you're monitoring - just use `localh
 
 ```bash
 # Clone the repo
-git clone https://github.com/paul-tastic/ned.git
+git clone https://github.com/paul-tastic-2/ned.git
 cd ned
 
 # Install dependencies
@@ -171,7 +171,7 @@ If you prefer to see what's happening (or can't use curl piped to bash):
 
 ```bash
 # 1. Download the agent
-sudo curl -fsSL https://raw.githubusercontent.com/paul-tastic/ned/master/agent/ned-agent.sh \
+sudo curl -fsSL https://raw.githubusercontent.com/paul-tastic-2/ned/master/agent/ned-agent.sh \
   -o /usr/local/bin/ned-agent
 sudo chmod +x /usr/local/bin/ned-agent
 
@@ -197,7 +197,7 @@ echo "*/5 * * * * root /usr/local/bin/ned-agent >> /var/log/ned.log 2>&1" | sudo
 When a new version is available, the dashboard will show an "Update Available" notice. To update:
 
 ```bash
-sudo curl -fsSL https://raw.githubusercontent.com/paul-tastic/ned/master/agent/ned-agent.sh \
+sudo curl -fsSL https://raw.githubusercontent.com/paul-tastic-2/ned/master/agent/ned-agent.sh \
   -o /usr/local/bin/ned-agent
 ```
 

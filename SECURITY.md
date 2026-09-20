@@ -76,7 +76,7 @@ curl -H "Authorization: Bearer <sanctum-token>" \
 Ned is designed to work via IP address without requiring a domain name:
 
 ```
-http://193.43.134.164:8080
+http://203.0.113.10:8080
 ```
 
 **Recommendations for IP-based deployments:**
