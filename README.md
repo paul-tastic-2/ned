@@ -6,6 +6,11 @@ Meet ned - the basement-dwelling, bespectacled server watcher who keeps an eye o
 
 **N**ever-**E**nding **D**aemon. Or just ned. He's cool with either.
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)](VERSION)
+
+[getneddy.com](https://getneddy.com) · [Screenshots](https://getneddy.com/screenshots.html) · [Deployment guide](DEPLOYMENT.md) · [Contributing](CONTRIBUTING.md) · [Security policy](SECURITY.md)
+
 ## Why ned?
 
 - **Free & Open Source** - MIT licensed, self-host on your own infra
@@ -13,6 +18,12 @@ Meet ned - the basement-dwelling, bespectacled server watcher who keeps an eye o
 - **Push-Based** - Agents push metrics to your dashboard (no firewall config needed)
 - **Multi-Server** - Monitor all your boxes from one dashboard
 - **No Auto-Updates** - You control when to update (dashboard shows when agent/dashboard versions mismatch)
+
+## Screenshots
+
+![ned dashboard showing several servers with status indicators](docs/screenshots/screenshot-1.png)
+
+All your servers at a glance, with status indicators and key metrics. More at [getneddy.com/screenshots.html](https://getneddy.com/screenshots.html): server detail, network and security monitoring, critical alerts, and agent update notices.
 
 ## What ned Watches
 
